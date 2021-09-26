@@ -1,0 +1,21 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgb(41, 35, 73);
+    margin-bottom: 200%;
+}
+
+h1{
+    color: white;
+    text-align: center;
+}
+
+.btn{
+    color: white;
+    text-decoration: none;
+    
+}
+
+.btn2{
+    color: white;
+    text-decoration: none;
+}
